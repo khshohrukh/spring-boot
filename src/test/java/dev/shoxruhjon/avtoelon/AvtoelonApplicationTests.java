@@ -1,10 +1,10 @@
-package uz.mohirdev;
+package dev.shoxruhjon.avtoelon;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MohirdevApplicationTests {
+class AvtoelonApplicationTests {
 
 	@Test
 	void contextLoads() {
